@@ -12,9 +12,11 @@ https://resep-mau.herokuapp.com/api/login [POST] <br>
 https://resep-mau.herokuapp.com/api/register [POST] <br>
 https://resep-mau.herokuapp.com/api/post [GET] <br>
 https://resep-mau.herokuapp.com/api/post [POST] <br>
-https://resep-mau.herokuapp.com/api/post{id} [GET] <br>
-https://resep-mau.herokuapp.com/api/post{id} [PUT] <br>
-https://resep-mau.herokuapp.com/api/post{id} [DELETE] <br>
+https://resep-mau.herokuapp.com/api/post/{id} [GET] <br>
+https://resep-mau.herokuapp.com/api/post/{id} [PUT] <br>
+https://resep-mau.herokuapp.com/api/post/{id} [DELETE] <br>
+
+You can always see my sample at this project 
 
 header:
 Authorization : Bearer <your_api_token_from registering_or_login_user>
