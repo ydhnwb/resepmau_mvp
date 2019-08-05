@@ -21,6 +21,8 @@ Authorization : Bearer <your_api_token_from registering_or_login_user>
 ## Screenshot
 Here are some sample images
 
+<img src="https://github.com/ydhnwb/resepmau_mvp/blob/master/screenshots/Screenshot_20190806-000205.png" width="400" height="800">
+
 ![alt text](https://github.com/ydhnwb/resepmau_mvp/blob/master/screenshots/Screenshot_20190806-000205.png=400x800)
 ![alt text](https://github.com/ydhnwb/resepmau_mvp/blob/master/screenshots/Screenshot_20190806-000212.png)
 ![alt text](https://github.com/ydhnwb/resepmau_mvp/blob/master/screenshots/Screenshot_20190806-000218.png)
