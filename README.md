@@ -6,7 +6,7 @@ This is a simple android app with basic function like crud and login - register<
 with Model-View_Presenter Design Pattern
 
 ## For the API you can use our api at https://resep-mau.herokuapp.com/api/ <br>
-## thanks to royhan31 for api
+## thanks to <a href="https://github.com/royhan31">royhan31</a> for api
 url :
 https://resep-mau.herokuapp.com/api/login [POST] <br>
 https://resep-mau.herokuapp.com/api/register [POST] <br>
