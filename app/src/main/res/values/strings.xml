@@ -8,7 +8,7 @@
     <string name="register">Register</string>
     <string name="register_desc">Please fill all forms below and password must be eight characters or more</string>
     <string name="hint_name">Full name</string>
-    <string name="title_activity_recipe">RecipeActivity</string>
+    <string name="title_activity_recipe">Recipe</string>
     <string name="hint_title">What\'s food</string>
     <string name="hint_content">Description</string>
     <string name="action_delete">Delete</string>

@@ -28,7 +28,7 @@ class RecipeActivity : AppCompatActivity(), RecipeActivityContract.RecipeView {
     }
 
     override fun onCreateOptionsMenu(menu: Menu?): Boolean {
-        menuInflater.inflate(R.menu.menu_recipe, menu)
+        if(!isNew()){ menuInflater.inflate(R.menu.menu_recipe, menu) }
         return true
     }
 
